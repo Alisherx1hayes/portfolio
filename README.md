@@ -1,1 +1,58 @@
 # portfolio
+<!DOCTYPE html>
+
+<html lang="ru">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Моя страница-портфолио</title>
+
+</head>
+
+<body style="font-family: Arial; margin:40px;">
+
+    <h1>Жумабаев Алишер</h1>
+
+    <h2>Обо мне</h2>
+
+    <p>
+
+        Я студент Казахского агротехнического исследовательского
+
+        университета имени С. Сейфуллина.
+
+        Обучаюсь по направлению IT и интересуюсь DevOps,
+
+        Python и C#.
+
+    </p>
+
+    <h2>Учебное заведение</h2>
+
+    <p>КАТИУ имени С. Сейфуллина</p>
+
+    <h2>Языки программирования</h2>
+
+    <ul>
+
+        <li>Python</li>
+
+        <li>C#</li>
+
+        <li>HTML</li>
+
+        <li>Git</li>
+
+    </ul>
+
+    <h2>Контакты</h2>
+
+    <p>Email: dinara1987198720@gmail.com</p>
+
+    <p>GitHub: github.com/Alisherx1hayes</p>
+
+</body>
+
+</html>
